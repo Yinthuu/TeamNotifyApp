@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WearNotifyApp</string>
+    <string name="notfybtn_title">Notify Team</string>
+    <string name="channel_name">ChannelTeam</string>
+    <string name="channel_description">Team Notification Channel</string>
+    <string name="notification_title">Don\'t Forget</string>
+    <string name="notification_text">Your meeting with the team is at 2:00 PM. Be there on time!</string>
+</resources>
